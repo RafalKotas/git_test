@@ -11,6 +11,7 @@ package iotestapp;
  */
 public class IOtestapp {
 
+	int age;
     /**
      * @param args the command line arguments
      */
